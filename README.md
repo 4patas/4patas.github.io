@@ -23,8 +23,8 @@ Nosso objetivo é conectar abrigos, protetores independentes e adotantes de form
 
 ## 📁 Repositórios
 
-- 🔹 **Frontend**: _[link será adicionado em breve]_  
-- 🔸 **Backend**: _[link será adicionado em breve]_
+- 🔹 **Frontend**:  [Front-end](https://github.com/4patas/frontend-4patas)
+- 🔸 **Backend**:  [Back-end](https://github.com/4patas/api-4patas)
 
 ---
 
@@ -42,6 +42,12 @@ Nosso objetivo é conectar abrigos, protetores independentes e adotantes de form
 
 Ficou interessado(a) em contribuir com o projeto?  
 Sinta-se à vontade para abrir issues, enviar PRs ou sugerir melhorias!
+
+---
+
+## 📜 Autor
+
+Renan Schmitt - @renanschmitt - Projeto de Conclusão de Curso - UNIVERSIDADE LUTERANA DO BRASIL 2024
 
 ---
 
